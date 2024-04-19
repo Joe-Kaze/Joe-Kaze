@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Heya 👋
+# About me
+Not sure how I fit into anything.
 <!--
 **Joe-Kaze/Joe-Kaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
